@@ -138,7 +138,11 @@ p {
     border-radius: 50px;
     font-weight: 700;
     font-size: 0.95rem;
+<<<<<<< HEAD
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+=======
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
 }
 
 /* Grid para as Imagens */
@@ -150,10 +154,16 @@ p {
 }
 
 .hobbies-flex img {
+<<<<<<< HEAD
     width: 150px;
     height: 150px;
     object-fit: cover;
     /* corta a imagem para caber */
+=======
+     width: 150px;
+    height: 150px;
+    object-fit: cover;   /* corta a imagem para caber */
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
     border-radius: 10px;
 }
 
@@ -168,21 +178,31 @@ p {
     border: 1px solid #DDD;
     border-radius: 10px;
     padding: 20px;
+<<<<<<< HEAD
     flex: 1;
     /* todos ocupam espaço igual */
     min-width: 200px;
     /* largura mínima antes de quebrar */
+=======
+    flex: 1;           /* todos ocupam espaço igual */
+    min-width: 200px;  /* largura mínima antes de quebrar */
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
 }
 
 
 /* Estilização de Listas Comuns */
+<<<<<<< HEAD
 ul.list,
 ol.list {
+=======
+ul.list, ol.list {
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
     padding-left: 25px;
     color: #4b5563;
     margin-bottom: 15px;
 }
 
+<<<<<<< HEAD
 ul.list li,
 ol.list li {
     margin-bottom: 10px;
@@ -190,13 +210,24 @@ ol.list li {
 
 ul.list a,
 ol.list a {
+=======
+ul.list li, ol.list li {
+    margin-bottom: 10px;
+}
+
+ul.list a, ol.list a {
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
     color: var(--primary);
     text-decoration: none;
     font-weight: 700;
 }
 
+<<<<<<< HEAD
 ul.list a:hover,
 ol.list a:hover {
+=======
+ul.list a:hover, ol.list a:hover {
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
     text-decoration: underline;
 }
 
@@ -208,8 +239,12 @@ table {
     overflow: hidden;
 }
 
+<<<<<<< HEAD
 th,
 td {
+=======
+th, td {
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
     padding: 16px;
     text-align: left;
     border-bottom: 1px solid #e5e7eb;
@@ -267,8 +302,12 @@ label {
     color: var(--text-main);
 }
 
+<<<<<<< HEAD
 input,
 textarea {
+=======
+input, textarea {
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
     padding: 14px;
     border: 2px solid #e5e7eb;
     border-radius: 10px;
@@ -279,8 +318,12 @@ textarea {
     outline: none;
 }
 
+<<<<<<< HEAD
 input:focus,
 textarea:focus {
+=======
+input:focus, textarea:focus {
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
     border-color: var(--primary);
     background-color: #fff;
     box-shadow: 0 0 0 4px rgba(79, 70, 229, 0.1);
@@ -319,4 +362,8 @@ footer {
     color: var(--text-muted);
     font-size: 0.9rem;
     font-weight: 700;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5808699b7d684bd7ef18581b0354449e0048e454
