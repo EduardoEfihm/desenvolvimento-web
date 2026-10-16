@@ -236,6 +236,8 @@ p {
 /* Grid para as Imagens (Hobbies) */
 .hobbies-flex {
     display: grid;
+    margin-bottom: 30px;
+    padding: 1px;
     grid-template-columns: 1fr;
     gap: 15px;
     justify-items: center;
